@@ -4,3 +4,4 @@ Git is free software.
 -- haha,there is an apple, but it is green;
 guofen,fjlskjl
 Git has a mutable index called stage.
+Git tracks changes.
